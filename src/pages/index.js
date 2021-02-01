@@ -11,7 +11,7 @@ const IndexPage = () => (
     <SEO title="Home" />
     <div style={{width: 200}}><Imagen fileName = "pucp-icon.jpg" alt="icono pucp" customclass ="imageclass" ></Imagen></div>
     
-    <Button>Click Here</Button>
+    <Button>Click Here car</Button>
     
   </Layout>
 )
